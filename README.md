@@ -1,7 +1,7 @@
 
 
-![GitHub Repo stars](https://img.shields.io/github/stars/DalinMathew/AutoFilterBotV3?style=social)
-<img src="https://img.shields.io/github/forks/DalinMathew/AutoFilterBotV3?style=social"></img>
+![GitHub Repo stars](https://img.shields.io/github/stars/rapperboy/kichu?style=social)
+<img src="https://img.shields.io/github/forks/trapperboy/kichu?style=social"></img>
 ## How To Deploy Video
 <a href=>"https://t.me/keralamoviesn"<img src="https://img.shields.io/badge/https://t.me/keralamoviesn?logo=YouTube"></a> <img src="https://img.shields.io/youtube/views/5hnYOKBzyi8?style=social">
 ## Subscribe Telegram Channel
