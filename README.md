@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/github/forks/DalinMathew/AutoFilterBotV3?style=social"></img>
 ## How To Deploy Video
 <a href="https://t.me/keralamoviesn"><img src="https://t.me/keralamoviesn"></a> <img src="https://t.me/keralamoviesn">
-## Subscribe YouTube Channel
+## Subscribe Telegram Channel
 <a href="https://t.me/keralamoviesn"> <img src="https://t.me/keralamoviesn"/> </a>
 
 #### Added Features
