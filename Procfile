@@ -1,1 +1,1 @@
-worker: python3 trapperboy.py
+worker: python3 mt_botz.py
